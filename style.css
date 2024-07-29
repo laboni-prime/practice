@@ -1,0 +1,62 @@
+
+.sun{
+    margin: 50px;
+    text-align: center;
+    width: 50%;
+    color: rgb(14, 4, 4);
+    background-color: rgb(0, 255, 106);
+}
+.on{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.btn-submit{
+    background-color: navy;
+    color: white;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+}
+
+.btn-submit:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.btn-reset{
+    background-color: brown;
+    color: beige;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+}
+.btn-reset:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+.btn-button{
+    background-color: royalblue;
+    color: beige;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 5px;
+    font-weight: bolder;
+    box-shadow: 10px;
+    cursor: pointer;
+
+}
+.btn-button:hover{
+    background-color: crimson;
+    cursor: pointer;
+
+}
+
